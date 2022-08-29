@@ -9,5 +9,5 @@
 
 &nbsp;
 
-![project_1 logo](./14.PNG)
+![project_1 logo](https://github.com/RHSrinivas/14-dance-landingpage/blob/main/14.png)
 
